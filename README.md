@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Luis Mota! 👋
 
-<!--
-**ENGLUISMOTA/ENGLUISMOTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em constante aprendizado, focado em construir soluções eficientes e compartilhar conhecimento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 🔭 Atualmente estou trabalhando em: **Sistema de Climatização**
+- 🌱 Estou aprendendo: **Python**
+- 💬 Pode me perguntar sobre: **Climatização**
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luis-gabriel-brito-mota-0bab693ba) | [Instagram](https://www.instagram.com/engluismota)
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, Javascript
+- **Ferramentas:** Git, VS Code, **n8n** (Automação).
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ENGLUISMOTA&show_icons=true&theme=dracula)
+
+*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*

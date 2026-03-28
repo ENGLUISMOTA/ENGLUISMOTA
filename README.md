@@ -14,7 +14,4 @@ Desenvolvedor em constante aprendizado, focado em construir soluções eficiente
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ENGLUISMOTA&show_icons=true&theme=dracula)
-
 *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*

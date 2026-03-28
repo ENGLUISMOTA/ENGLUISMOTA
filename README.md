@@ -6,7 +6,6 @@ Desenvolvedor em constante aprendizado, focado em construir soluções eficiente
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente estou trabalhando em: **Sistema de Climatização**
-- 🌱 Estou aprendendo: **Python**
 - 💬 Pode me perguntar sobre: **Climatização e Engenharia**
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luis-gabriel-brito-mota-0bab693ba) | [Instagram](https://www.instagram.com/engluismota)
 

@@ -10,7 +10,7 @@ Desenvolvedor em constante aprendizado, focado em construir soluções eficiente
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, Javascript
-- **Ferramentas:** Git, VS Code, **n8n** (Automação).
+- **Ferramentas:** Git, VS Code, Antigravity, n8n.
 
 ---
 

@@ -8,6 +8,7 @@ Desenvolvedor em constante aprendizado, focado em construir soluções eficiente
 - 🔭 Atualmente estou trabalhando com: **Desenvolvimento Web, Automações, Inteligência Artificial e Projetos de  Climatização**
 - Sou formado em: **Análise e Desenvolvimento de Sistemas** e em **Engenharia Mecânica**
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luis-gabriel-brito-mota-0bab693ba) | [Instagram](https://www.instagram.com/engluismota)
+- E-mail para contato: **engluismota@gmail.com**
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, Javascript.
